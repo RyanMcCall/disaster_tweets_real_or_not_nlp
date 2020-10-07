@@ -1,4 +1,4 @@
-# Disaster Tweets, Real or Nott?
+# Disaster Tweets, Real or Not?
 
 ### Author: Ryan McCall
 
