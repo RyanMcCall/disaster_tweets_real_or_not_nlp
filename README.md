@@ -1,6 +1,6 @@
 # Disaster Tweets, Real or Not?
 
-### Author: Ryan McCall
+### Author: Ryan McCall and Chase Thompson
 
 ## Description: 
 This project aims to predict whether a tweet is about a real disaster or not using Natural Language Processing and classification techniques.
